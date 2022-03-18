@@ -3,6 +3,7 @@
 
 - 🔭 Hoje estudo Front-end
 - 🌱 Estudando JavaScript
+- 🏁 Kenzie Academy
 
 <div align="center">
   <a href="https://github.com/luan-vieira">
