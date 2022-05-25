@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje estudo Front-end
-- 🌱 Estudando JavaScript
+- 🌱 Estudando React
 - 🏁 Kenzie Academy
 
 <div align="center">
