@@ -1,4 +1,4 @@
-## Oiii eu sou o Luan Vieira, estudante de programação e tecnologia!
+## Oii eu sou o Luan Vieira, estudante de programação e tecnologia!
 
 
 - 🔭 Hoje estudo Front-end
