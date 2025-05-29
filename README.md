@@ -1,9 +1,9 @@
-## Oii eu sou o Luan Vieira, estudante de programação e tecnologia!
+## Luan Vieira!
 
 
 - 🔭 Desenvolvedor Front-end
 - 🌱 Estudando React
-- 🏁 Kenzie Academy
+  
 
 <div align="center">
   <a href="https://github.com/luan-vieira">
