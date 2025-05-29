@@ -2,7 +2,7 @@
 
 
 - 🔭 Desenvolvedor Front-end
-- 🌱 Estudando React
+  
   
 
 <div align="center">
